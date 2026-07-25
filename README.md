@@ -4,6 +4,21 @@
 
 ---
 
+## 🎯 Objetivo Profesional
+
+> *"Traduzco psicología del comportamiento a código que la gente usa sin fricción"*
+
+**Busco roles donde pueda:**
+- 🧠 Aplicar **psicología cognitiva y del comportamiento** al desarrollo frontend
+- ⚡ Crear interfaces que **anticipen necesidades** y reduzcan carga cognitiva
+- 📊 Validar decisiones de diseño con **datos de comportamiento real**
+- 🎨 Construir productos donde **la tecnología sirva a las personas**
+
+**Roles de interés:**
+
+
+---
+
 ## 🧠 El puente entre la tecnología y la mente humana
 
 > *"No construyo código, construyo experiencias que las personas entienden y aman usar"*
@@ -49,41 +64,101 @@
 
 ## 🌟 Proyectos Destacados
 
-### [Nombre de tu proyecto 1] - *Próximamente*
-> 🧪 Aplicación que combina tests psicológicos con gamificación
+### [eBike-Rental-System](https://github.com/londoncristian022-gif/eBike-Rental-System)
+> 🚲 **Sistema de alquiler de bicicletas eléctricas**
+> 
+> Aplicación para gestión de alquiler de eBikes con enfoque en experiencia de usuario
 
-### [Nombre de tu proyecto 2] - *Próximamente*
-> 🎨 Landing page con psicología de colores y persuasión
+**Tecnologías:** HTML, CSS, JavaScript
 
 ---
 
-## 📈 Estadísticas
+### [recpo_CDLE](https://github.com/londoncristian022-gif/recpo_CDLE)
+> ⚡ **Repositorio de proyectos CDLE**
+> 
+> Estructura de proyectos para la Central de Distribución de Logística y Energía
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=londoncristian022-gif&show_icons=true&theme=radical)
+**Tecnologías:** HTML, CSS
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=londoncristian022-gif&layout=compact&theme=radical)
+---
+
+### [Proyecto_prueba](https://github.com/londoncristian022-gif/Proyecto_prueba)
+> 🧪 **Proyecto de prueba y aprendizaje**
+> 
+> Espacio para experimentar con herramientas de Git y desarrollo frontend
+
+**Tecnologías:** Git, HTML, CSS
+
+---
+
+## 🌟 Filosofía de trabajo
+
+> *"El mejor código no es el más rápido ni el más corto, es el que la gente usa sin darse cuenta"*
+
+**Esto significa que:**
+- 🧠 Priorizo la **carga cognitiva** del usuario sobre mi ego como programador
+- ⚡ Escribo código eficiente, pero nunca a costa de la experiencia humana
+- 📊 Mido éxito por **comportamiento real**, no por líneas de código
+- 🎯 Cada decisión técnica tiene una razón psicológica detrás
+
+---
+
+## 🎓 Formación Académica
+
+| Área | Estado |
+|------|--------|
+| **Técnico en Programación de Software** | Graduado |
+| **Psicología** | Formación avanzada - Enfoque en Cognición y UX |
+
+> *"Próximo a obtener título profesional, combinando tecnología con comprensión del comportamiento humano"*
 
 ---
 
 ## 📫 Conectemos
 
 - 💼 [LinkedIn](https://linkedin.com/in/tuusuario)
-- 📧 correo@ejemplo.com
+- 📧 [tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)
 - 🐦 [Twitter/X](https://twitter.com/tuusuario)
 
 ---
 
-## 🎯 Objetivo Profesional
+---
 
-> Frontend Engineer especializado en **Experiencia de Usuario (UX)**. 
-> Traduzco psicología del comportamiento a código que las personas usan sin fricción.
+## 📊 Estadísticas de GitHub
 
-**Busco roles donde pueda:**
-- 🧠 Aplicar **psicología cognitiva y del comportamiento** al desarrollo frontend
-- ⚡ Crear interfaces que **anticipen necesidades** y reduzcan carga cognitiva
-- 📊 Validar decisiones de diseño con **datos de comportamiento real**
-- 🎨 Construir productos donde **la tecnología sirva a las personas**
+<div align="center">
+  <!-- Estadísticas Principales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=londoncristian022-gif&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estadísticas de GitHub" width="49%" />
+  
+  <!-- Lenguajes más usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=londoncristian022-gif&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes más usados" width="48%" />
+  
+  <br/><br/>
+  
+  <!-- Racha de Contribuciones -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=londoncristian022-gif&theme=dracula&hide_border=true" alt="Racha de GitHub" width="100%" />
+  
+  <br/><br/>
+  
+  <!-- Gráfico de Actividad -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=londoncristian022-gif&theme=dracula&hide_border=true&area=true" alt="Gráfico de Actividad" width="100%" />
+</div>
 
 ---
 
-⭐ *"No construyo productos digitales, construyo experiencias que la gente recuerda"*
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=londoncristian022-gif&style=flat-square&color=blue" alt="Visitas al perfil" />
+  <br/><br/>
+  
+  <!-- Tecnologías en formato grande -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  
+  <br/><br/>
+  
+  ⭐ *"Sé programar. Sé por qué la gente hace lo que hace. Construyo para ambas"* ⭐
+</div>
+
